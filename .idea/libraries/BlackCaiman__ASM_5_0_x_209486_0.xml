@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: ASM-5.0.x.209486.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-xml-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-tree-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-analysis-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-commons-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ASM/ASM-5.0.x.209486.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/asm-util-5.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,118 @@
+# -*-perl-*-
+
+package.GrayJayReportValidationAutomation = {
+    interfaces = (1.0);
+
+    deploy = {
+        generic = true;
+    };
+
+    build-environment = {
+        chroot = basic;
+        network-access = blocked;
+    };
+
+    build-system = happytrails;
+    build-tools = {
+        1.0 = {
+            HappierTrails = 3.5;
+            OpenJDK8 = 1.1;
+            CoralClient = 1.1;
+            CoralClientConfig = 1.1;
+            CoralClientBuilder = 1.1;
+            CoralClientHttp = 1.1;
+            CoralHttpSupport = 1.1;
+        };
+    };
+
+    dependencies = {
+        1.0 = {
+            AmazonAppConfigJava = 2.0;
+            AWSJavaClientRuntime = 1.11.x;
+            AWSRedshiftJavaClient = 1.11.x;
+            AWSSecurityTokenServiceJavaClient = 1.11.x;
+            AWSRedshiftDataAPIJavaClient = 1.11.x;
+            AWSS3JavaClient = 1.11.x;
+            AWSKeyManagementJavaClient = 1.11.x;
+            CoralClientCloudAuthSupport = 1.1;
+            CoralClientBuilder = 1.1;
+            CoralClientHttp = 1.1;
+            GuiceAppConfig = 1.1;
+            GoogleGuice = 4.x;
+            Log4j-1_2-api = 2.8;
+            Lombok = 1.18.x;
+            LombokUtils = 1.1;
+            CoralHttpSupport = 1.1;
+            Maven-com-amazonaws_aws-lambda-java-core = 1.x;
+            RoyaltyReportingManagementServiceJavaClient = 1.0;
+            OdinEverywherePuller = 1.4;
+            PowerMockMockito = 1.6.x;
+            Redshift-JDBC = 4.2_no_awssdk;
+            Slf4j = 1.7;
+            AmazonApolloEnvironmentInfoJava = 1.2;
+            OpenCsv = 3.5;
+            JacksonIon = 2.12.x;
+        };
+    };
+
+    test-dependencies = {
+        1.0 = {
+            JUnit5 = 5.x;
+            JUnit-4-12-migration = 5.x;
+            PowerMockMockito = 1.6.x;
+            CGLib = 3.2;
+        };
+    };
+
+    runtime-dependencies = {
+        1.0 = {
+            RoyaltyReportingManagementServiceClientConfig = 1.0;
+            OpenJDK8 = 1.1;
+            AmazonCACerts = 1.0;
+            CoralClientCloudAuthSupport = 1.1;
+            CoralClientBuilder = 1.1;
+            CoralRpcSupport = 1.1;
+            Maven-org-glassfish_javax_json = 1.x;
+            Jaxb = 2.3.1;
+            log4j = 2.8;
+            Log4j-slf4j = 2.x;
+            Maven-com-amazonaws_aws-lambda-java-log4j2 = 1.x;
+            AWSJavaClientJmx = 1.11.x;
+            JUnit5 = 5.x;
+            JUnit-4-12-migration = 5.x;
+            PowerMockMockito = 1.6.x;
+
+        };
+    };
+    resolves-conflict-dependencies = {
+        1.0 = {
+            Javassist = 3.27.x;
+            CoralClientCloudAuthSupport = 1.1;
+            CoralClientBuilder = 1.1;
+            CoralRpcSupport = 1.1;
+            AWSJavaClientRuntime = 1.11.x;
+            AWSKeyManagementJavaClient = 1.12.x;
+            AWSS3JavaClient = 1.12.x;
+            Jackson-core = 2.12.x;
+            Jackson-databind = 2.12.x;
+        };
+    };
+
+    remove-dependencies = {
+        1.0 = {
+            Maven-com-fasterxml-jackson-core_jackson-annotations=2.11.x;
+            Maven-com-fasterxml-jackson-core_jackson-databind=2.11.x;
+            Maven-org-slf4j_slf4j-api=2.x;
+            Maven-com-fasterxml-jackson-core_jackson-core=2.11.x;
+            junit = 4.12;
+            junit = 4.11;
+        };
+    };
+
+    # For more information on how to declare targets for HappyTrails packages
+    # see: https://w.amazon.com/?BrazilBuildSystem/HappyTrails/GettingStarted
+    targets = {
+        GrayJayReportValidationAutomation-1.0 = { type = javalibrary; };
+    };
+
+};

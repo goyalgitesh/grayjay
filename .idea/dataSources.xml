@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="caspianeradarna" uuid="ef609e2b-aced-4626-bca8-14abd7d87049">
+      <driver-ref>redshift</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:redshift:iam://caspian-eradar-prod-redshift-us-east-1:us-east-1/caspianeradarna</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RegionId" value="us-east-1" />
+        <property name="AWS.RedshiftClusterId" value="CaspianSearchNA" />
+        <property name="AWS.CredentialId" value="profile:default" />
+        <property name="Profile" value="arn:aws:iam::783644466077:role/RedShiftIAMCredentialRoleFor-gdrsse-prod-USAmazon" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: GoogleGuice-4.1.261258.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-dagger-adapter-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-grapher-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-spring-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-jmx-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-jndi-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-jmx-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-assistedinject-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-dagger-adapter-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-multibindings-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-testlib-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-multibindings-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-jndi-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-persist-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-throwingproviders-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-servlet-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-servlet-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-testlib-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-grapher-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-assistedinject-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-throwingproviders-4.1-src.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-spring-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/GoogleGuice/GoogleGuice-4.1.261258.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/guice-persist-4.1-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: ApacheAnt-1.9.x.241064.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-log4j.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-jai.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-jdepend.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-junit.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-xalan2.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-regexp.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-jmf.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-oro.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-jsch.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-resolver.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-netrexx.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-javamail.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-testutil.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-swing.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-bcel.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-apache-bsf.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-commons-net.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-junit4.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-antlr.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/ApacheAnt/ApacheAnt-1.9.x.241064.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/ant-launcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

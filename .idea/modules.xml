@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GDRSAutomationCDK/GDRSAutomationCDK.iml" filepath="$PROJECT_DIR$/../GDRSAutomationCDK/GDRSAutomationCDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrayJayReportValidationAutomation.iml" filepath="$PROJECT_DIR$/GrayJayReportValidationAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GrayJayReportValidationAutomationTests/GrayJayReportValidationAutomationTests.iml" filepath="$PROJECT_DIR$/../GrayJayReportValidationAutomationTests/GrayJayReportValidationAutomationTests.iml" />
+    </modules>
+  </component>
+</project>

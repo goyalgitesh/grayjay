@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: Jaxb-2.3.1.6128.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/codemodel.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/txw2.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/jaxb-api.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/jaxb-jxc.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/jaxb-runtime.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Jaxb/Jaxb-2.3.1.6128.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/xsom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BlackCaiman: BouncyCastleCrypto-1.x.299794.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bcpg-jdk15on-170.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bcpkix-jdk15on-170.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bctls-jdk15on-170.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bcprov-jdk15on-170.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bcutil-jdk15on-170.jar!/" />
+      <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/BouncyCastleCrypto/BouncyCastleCrypto-1.x.299794.0/AL2_x86_64/DEV.STD.PTHREAD/build/lib/bcmail-jdk15on-170.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

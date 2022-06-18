@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<project name="GrayJayReportValidationAutomation-1.0" basedir="." default="release" xmlns:ht="happytrails">
+  <property name="checkstyle.configuration.file" location="checkstyle.xml" />
+
+
+  <import file="${happytrails.root}/happytrails.xml"/>
+  <ht:import file="validate-classpath.xml" />
+
+  <!-- Define HappierTrails property overrides here -->
+  <property name="tests.additional.jvmargs" value=""/>
+
+
+
+  <property name="domain" value="test" />
+  <property name="realm"  value="USAmazon" />
+
+  <!-- Copy configurations -->
+  <property name="ht.include.cfg" value="true" />
+
+  <ht:import file="happier-trails.xml"/>
+  <ht:import file="coral-config.xml" optional="false"/>
+  <target name="validate-classpath">
+    <ht:validateClasspath classpath="${bp:run.classpath}" failOnConflicts="true" />
+  </target>
+  <target name="copy-coral-configuration">
+    <copy todir="${basedir}">
+      <fileset dir="${bp:run.configfarm.coral-config}">
+        <include name="coral-config/**/*"/>
+      </fileset>
+    </copy>
+  </target>
+  <target name="copy-certs">
+  <echo message="Copying certs from ${bp:[AmazonCACerts]pkg.configfarm.certs}/certs/InternalAndExternalTrustStore.jks to ${output.dir}/truststore" />
+  <copy todir="${output.dir}/truststore">
+    <fileset dir="${bp:[AmazonCACerts]pkg.configfarm.certs}/certs" includes="InternalAndExternalTrustStore.jks" />
+  </copy>
+</target>
+
+<target name="build" depends="copy-certs,standard-build"/>
+
+
+  <target name="release" depends="standard-release,validate-classpath" />
+
+</project>
+
+
+
